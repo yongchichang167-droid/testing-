@@ -29,16 +29,12 @@ nav {
 
 .logo {
     color: white;
+	left: 50%;
     font-size: 40px;
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
-    margin-left:20px;
-	left: 50%;
-    transform: translateX(-30%);
-
-
 }
 nav ul{
   display: flex;
